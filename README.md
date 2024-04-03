@@ -7,7 +7,7 @@ En este repositorio encontramos la web del módulo **Entornos de Desarrollo**. L
 - Testing. JUNIT
 - UML
 
-! https://fpiespablopicasso.es/wp-
-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png
+!https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png
+
 
 
